@@ -2,8 +2,6 @@
 
 <img src= "https://i.ibb.co/DpjkvQx/955d7ab8-bbb6-4555-b849-30078255ab1b.jpg">
 
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
-
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
