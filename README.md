@@ -2,7 +2,8 @@
 
 <img src= "https://i.ibb.co/k9Q5MLF/955d7ab8-bbb6-4555-b849-30078255ab1b-2-1-1.jpg">
 
-	
+ <h4 align="center">"I am a proficient Full Stack Developer with 1 year of practical expertise in conceiving, crafting, and deploying innovative applications and solutions across diverse technologies and programming languages."</h1>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
