@@ -1,4 +1,4 @@
-                              ### Welcome 👋
+ <h1 align="center">Hi 👋, Welcome</h1>
 
 <img src= "https://i.ibb.co/k9Q5MLF/955d7ab8-bbb6-4555-b849-30078255ab1b-2-1-1.jpg">
 
@@ -75,7 +75,3 @@
 ### Feel free to fork and 🌟 this repo!!
 
 ------
-
-Credit : [AvidCoder101](https://github.com/AvidCoder101)
-
-Last Edited On: 31/08/2021
