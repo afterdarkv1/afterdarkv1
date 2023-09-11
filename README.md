@@ -2,14 +2,7 @@
 
 <img src= "https://i.ibb.co/k9Q5MLF/955d7ab8-bbb6-4555-b849-30078255ab1b-2-1-1.jpg">
 
-#### Most of these repos are also able to contribute to on the [CodingContributorsLair](https://github.com/CodingContributorsLair/) organization. Check them out!
-### Some awesome repos that people and organizations have made:
-
-- **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
-- **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
-- **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
-- **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)**
-- **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 ### Organizations that I have contributed to:
 
@@ -40,7 +33,6 @@
 ### Feel free to fork and 🌟 this repo!!
 
 ------
-
 
 
 
