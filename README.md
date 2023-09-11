@@ -2,7 +2,10 @@
 
 <img src= "https://i.ibb.co/k9Q5MLF/955d7ab8-bbb6-4555-b849-30078255ab1b-2-1-1.jpg">
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 
@@ -21,8 +24,5 @@
 ### Feel free to fork and 🌟 this repo!!
 
 ------
-
-
-
 
 
