@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-<img src= "https://i.ibb.co/DpjkvQx/955d7ab8-bbb6-4555-b849-30078255ab1b.jpg" height= "500">
+<img src= "https://i.ibb.co/R7zBFY1/955d7ab8-bbb6-4555-b849-30078255ab1b-2-1.jpg">
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
