@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-<img src= "https://ibb.co/Kw87fWM" width= "30" height= "30">
+<img src= "https://i.ibb.co/DpjkvQx/955d7ab8-bbb6-4555-b849-30078255ab1b.jpg">
 
 ![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 
